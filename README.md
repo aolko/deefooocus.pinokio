@@ -1,4 +1,4 @@
-# <div style="display:flex;align-items:center;gap:8px;"><img src="https://github.com/ehristoforu/DeFooocus/raw/main/assets/favicon.png" style="height:48px">DeFooocus</div>
+# <div style="display:flex;align-items:center;gap:8px;"><img src="https://github.com/ehristoforu/DeFooocus/raw/main/assets/favicon.png" style="height:48px;margin-right:10px;">DeFooocus</div>
 ## Custom pinokio script by aolko
 
 [Source repository](https://github.com/ehristoforu/DeFooocus)
