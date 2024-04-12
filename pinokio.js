@@ -1,9 +1,9 @@
 const path = require("path")
 module.exports = {
-  version: "1.1",
-  title: "Fooocus",
+  version: "1.0",
+  title: "DeFooocus",
   description: "Minimal Stable Diffusion UI",
-  icon: "icon.jpeg",
+  icon: "icon.png",
   menu: async (kernel) => {
 
     // exception handling for windows amd
